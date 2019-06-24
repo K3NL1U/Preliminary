@@ -20,3 +20,4 @@
 
 
 # https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+# will need to install markdown navigation if you want to see it first hand, the default on will not work on emoji
