@@ -16,3 +16,7 @@
 # Shift & F10 --> running whatever is selected on the top right
 # Ctrl & Shift & F10 --> run the current file
 # ALT & left click --> selecting everything in a column
+
+
+
+# https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
